@@ -58,4 +58,9 @@ ifconfig
 
 ------now go in browser and go to "localhost:8080" and sign in by username: admin and password:admin , in phone you can put ip address 192.something:8080, make sure that other device(for e.g. phone) is connected with same WiFi or LAN connection --------
 
+```bash
+ docker-compose down
+  ```
+------ If You want to down/ Stop the Server (e.g: 8080). For using is for another purpose.
+
 "# owncloud" 
